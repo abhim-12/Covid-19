@@ -9,3 +9,7 @@ For dashboarding:<br>
       Run (cmd) : voila \path\to\notebook\notebook.ipynb --theme=dark <br>
 
 Note: For Cell Execution timeout Error, add    --ExecutePreprocessor.timeout=600
+
+Source:<br>
+https://github.com/CSSEGISandData/COVID-19 <br>
+https://worldpopulationreview.com/states/ <br>
