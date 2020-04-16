@@ -1,7 +1,11 @@
 {
   "VoilaConfiguration": {
+    "enable_nbextensions": true,
     "theme": "dark",
     "template": "template",
-    "ExecutePreprocessor.timeout": 600
+    "ExecutePreprocessor.timeout": 600,
+    "language_kernel_mapping": {
+            "python": "python3"
+    	}
   }
 }
