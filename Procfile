@@ -1,1 +1,1 @@
-web: voila —-port=$PORT --no-browser
+web: voila Corona_EDA_USA.ipynb --theme=dark --ExecutePreprocessor.timeout=600 --enable_nbextensions=true —-port=$PORT --no-browser
