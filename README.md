@@ -1,4 +1,4 @@
-# Covid-19 Dashboard
+# Covid-19 Dashboard   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhim-12/voila-dashboard/master?urlpath=%2Fvoila%2Frender%2Fnotebook%2FCorona_EDA_temp.ipynb)
 
 Covid-19 EDA and Dashboard(using voila) for US States and cities. <br>
 
