@@ -6,12 +6,12 @@ Covid-19 EDA and Dashboard(using voila) for US States and cities. <br>
 
 EDA of the impact of novel Corona virus on the United States and a dashboard for the same.<br>
 Install requirements.txt for all packages.
-
-For dashboarding:<br>
+### For dashboarding:<br>
       Install : pip install voila <br>
       Run (cmd) : voila \path\to\notebook\notebook.ipynb --theme=dark <br>
 
-Note: For Cell Execution timeout Error, add    --ExecutePreprocessor.timeout=600
+### Note: 
+      For Cell Execution timeout Error, add    --ExecutePreprocessor.timeout=600
 
 Source:<br>
 https://github.com/CSSEGISandData/COVID-19 <br>
