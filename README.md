@@ -17,7 +17,7 @@ Install requirements.txt for all packages.
       https://github.com/CSSEGISandData/COVID-19 <br>
       https://worldpopulationreview.com/states/ <br>
 
-Screenchots: <br>
+### Screenchots: <br>
 
 ![](screenshots/image1.png)
 
